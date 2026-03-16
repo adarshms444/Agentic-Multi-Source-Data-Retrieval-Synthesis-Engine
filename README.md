@@ -4,14 +4,8 @@
 An enterprise-grade, multi-document Retrieval-Augmented Generation (RAG) system. This project implements an Agentic Router to dynamically classify user intent, utilize mathematically normalized Hybrid Search (Dense + Sparse), and generate highly structured professional reports via a custom Gradio web interface.
 
 ## 🎥 System Demo
-Watch the system dynamically route factual, comparative, and summary queries across multiple document formats:
 
-<video width="100%" controls>
-  <source src="https://github.com/adarshms444/Agentic-Multi-Source-Data-Retrieval-Synthesis-Engine/blob/main/AssignmentRag2.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
-*Note: If viewing on GitHub, you can also drag and drop your `.mp4` file directly into the GitHub web editor to automatically generate a playable link.*
+▶ [Watch the Demo](https://github.com/adarshms444/Agentic-Multi-Source-Data-Retrieval-Synthesis-Engine/blob/main/AssignmentRag2.mp4)
 
 ---
 
