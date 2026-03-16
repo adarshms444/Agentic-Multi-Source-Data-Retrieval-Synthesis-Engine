@@ -44,19 +44,3 @@ Nexus RAG solves these challenges by implementing an **Agentic Dispatch Architec
 * **Frontend:** Gradio 
 * **Data Processing:** Pandas, Unstructured, PyPDF
 
----
-
-## Installation & Setup
-
-**1. Clone the repository and install dependencies:**
-Ensure you are using Python 3.9+. 
-```bash
-pip install -qU langchain langchain-community langchain-openai langchain-huggingface gradio chromadb rank_bm25 pypdf unstructured markdown sentence-transformers pandas langchain-classic
-
-**2. Configure API key**
-```bash
-os.environ["OPENROUTER_API_KEY"] = "your_api_key_here"
-
-**3.Run the Application:
-```bash
-python app.py**
