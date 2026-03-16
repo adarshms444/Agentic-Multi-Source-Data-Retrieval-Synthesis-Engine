@@ -5,7 +5,7 @@ An enterprise-grade, multi-document Retrieval-Augmented Generation (RAG) system.
 
 ## 🎥 System Demo
 
-▶ [Watch the Demo](https://github.com/adarshms444/Agentic-Multi-Source-Data-Retrieval-Synthesis-Engine/blob/main/AssignmentRag2.mp4)
+https://github.com/user-attachments/assets/abd1a3ed-40b9-4645-a48b-669a7eecfb23
 
 ---
 
