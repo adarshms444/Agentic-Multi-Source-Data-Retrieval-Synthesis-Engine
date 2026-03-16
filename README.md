@@ -7,7 +7,7 @@ An enterprise-grade, multi-document Retrieval-Augmented Generation (RAG) system.
 Watch the system dynamically route factual, comparative, and summary queries across multiple document formats:
 
 <video width="100%" controls>
-  <source src="./assets/nexus_demo.mp4" type="video/mp4">
+  <source src="[./assets/nexus_demo.mp4](https://github.com/adarshms444/Agentic-Multi-Source-Data-Retrieval-Synthesis-Engine/blob/main/AssignmentRag2.mp4)" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
